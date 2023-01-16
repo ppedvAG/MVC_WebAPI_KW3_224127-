@@ -3,32 +3,36 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{8DF5DC69-4781-4F6C-B69A-721BF568AEEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{8DF5DC69-4781-4F6C-B69A-721BF568AEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{148CA9E5-14F3-4D46-8534-0B7166577F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{148CA9E5-14F3-4D46-8534-0B7166577F6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LizkovischesPrincipe", "LizkovischesPrincipe\LizkovischesPrincipe.csproj", "{042B6D9D-DED3-40D8-915F-34E2A5428CB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LizkovischesPrincipe", "LizkovischesPrincipe\LizkovischesPrincipe.csproj", "{042B6D9D-DED3-40D8-915F-34E2A5428CB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegerationPrinzip", "InterfaceSegerationPrinzip\InterfaceSegerationPrinzip.csproj", "{174BAF67-C363-4616-9770-4DA53649BAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegerationPrinzip", "InterfaceSegerationPrinzip\InterfaceSegerationPrinzip.csproj", "{174BAF67-C363-4616-9770-4DA53649BAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{2BB784B0-9A9D-4594-BDDA-3F544DF4881B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{2BB784B0-9A9D-4594-BDDA-3F544DF4881B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul001_SOLID", "Modul001_SOLID", "{A3DC6DED-E575-4887-AF6B-6249263F47A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainerIntroSample", "IOCContainerIntroSample\IOCContainerIntroSample.csproj", "{3D8846CD-06DE-412E-AE5B-525876E03CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOCContainerIntroSample", "IOCContainerIntroSample\IOCContainerIntroSample.csproj", "{3D8846CD-06DE-412E-AE5B-525876E03CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCSamplesWithMVC", "IOCSamplesWithMVC\IOCSamplesWithMVC.csproj", "{7A3B3154-308C-4F12-ACE8-A27C3C4C6D2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOCSamplesWithMVC", "IOCSamplesWithMVC\IOCSamplesWithMVC.csproj", "{7A3B3154-308C-4F12-ACE8-A27C3C4C6D2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB13999C-10CC-455A-BEF0-9E451F216D72}"
 	ProjectSection(SolutionItems) = preProject
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul02_IOC_Container_Samples", "Modul02_IOC_Container_Samples", "{28EF7E2C-BACB-4A7C-BCCE-DB6AB5412F11}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002_IOC_Container_Samples", "Modul002_IOC_Container_Samples", "{28EF7E2C-BACB-4A7C-BCCE-DB6AB5412F11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMVCProjekt", "DefaultMVCProjekt\DefaultMVCProjekt.csproj", "{1EB7BDCE-B66C-4E96-8093-F10B3041EE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultMVCProjekt", "DefaultMVCProjekt\DefaultMVCProjekt.csproj", "{1EB7BDCE-B66C-4E96-8093-F10B3041EE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMVCProjektNET5", "DefaultMVCProjektNET5\DefaultMVCProjektNET5.csproj", "{59EEA43D-81A5-42A5-AA5C-BA594F19A899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultMVCProjektNET5", "DefaultMVCProjektNET5\DefaultMVCProjektNET5.csproj", "{59EEA43D-81A5-42A5-AA5C-BA594F19A899}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul003_DefaultProjekt und Abwärtskompatibilität zu älteren Versionen", "Modul003_DefaultProjekt und Abwärtskompatibilität zu älteren Versionen", "{AD8A068A-CB59-480D-90ED-C4507EBFFB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationAndLogging", "ConfigurationAndLogging\ConfigurationAndLogging.csproj", "{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +76,10 @@ Global
 		{59EEA43D-81A5-42A5-AA5C-BA594F19A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EEA43D-81A5-42A5-AA5C-BA594F19A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EEA43D-81A5-42A5-AA5C-BA594F19A899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +92,8 @@ Global
 		{2BB784B0-9A9D-4594-BDDA-3F544DF4881B} = {A3DC6DED-E575-4887-AF6B-6249263F47A3}
 		{3D8846CD-06DE-412E-AE5B-525876E03CD3} = {28EF7E2C-BACB-4A7C-BCCE-DB6AB5412F11}
 		{7A3B3154-308C-4F12-ACE8-A27C3C4C6D2A} = {28EF7E2C-BACB-4A7C-BCCE-DB6AB5412F11}
+		{1EB7BDCE-B66C-4E96-8093-F10B3041EE7E} = {AD8A068A-CB59-480D-90ED-C4507EBFFB72}
+		{59EEA43D-81A5-42A5-AA5C-BA594F19A899} = {AD8A068A-CB59-480D-90ED-C4507EBFFB72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {335A77EA-074B-4B0E-B6B3-A6CEA7D98A9E}

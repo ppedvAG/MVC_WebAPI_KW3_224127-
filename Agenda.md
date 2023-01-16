@@ -9,8 +9,8 @@ Montag
 - [x] Multiple-Implementations + (selbe Interface) with IOC.
 - [x] ASP.NET Core MVC - Injection-Varianten.
   
-- [ ] MVC-Default Project
-- [ ] Program.cs -Klasse mit .NET 6 vergleichen (Codezeilen optimierung + Breaking Change)
+- [x] MVC-Default Project
+- [x] Program.cs -Klasse mit .NET 5 + 2.1 vergleichen (Codezeilen optimierung + Breaking Change)
 - [ ] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
 - [ ] Logging 
 
