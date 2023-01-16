@@ -16,7 +16,6 @@ namespace IOCSamplesWithMVC.Controllers
         }
 
 
-
         //Variante 2: Methoden  - Injection -> Wenn ein Dienst oder eine Funktionalität nur innerhalb einer Methode verwendet wird
         public IActionResult Index([FromServices] ITimeService methodenWeiterTimeService)
         {
@@ -25,19 +24,15 @@ namespace IOCSamplesWithMVC.Controllers
             return View();
         }
 
-
         public IActionResult Index2()
         {
             //Via HttpContext - GetService
-            ITimeService service1 = this.HttpContext.RequestServices.GetService<ITimeService>();
-
+            ITimeService? service1 = this.HttpContext.RequestServices.GetService<ITimeService>();
 
             //oder 
 
-
             //Via HttpContext - GetRequiredService
             ITimeService service2 = this.HttpContext.RequestServices.GetRequiredService<ITimeService>();
-
 
             return View();
         }

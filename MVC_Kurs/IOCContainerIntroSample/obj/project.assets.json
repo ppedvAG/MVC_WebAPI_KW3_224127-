@@ -106,7 +106,8 @@
   },
   "packageFolders": {
     "C:\\Users\\kw4\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -118,7 +119,8 @@
       "outputPath": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\IOCContainerIntroSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\kw4\\AppData\\Roaming\\NuGet\\NuGet.Config",

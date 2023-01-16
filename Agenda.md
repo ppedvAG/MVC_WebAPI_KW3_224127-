@@ -1,13 +1,13 @@
 ﻿PPEDV-Kurs: 16.01.2023 -> ASP.NET MVC 7 
 
 Montag
-- [ ] Solid
-- [ ] Einführungs DI 
-- [ ] Dependency Injection / Seperation of Concerne  
-- [ ] IServiceCollection / ServiceProvider
-- [ ] Singleton / Scoped / Transient 
-- [ ] Multiple-Implementations + (selbe Interface) with IOC.
-- [ ] ASP.NET Core MVC - Injection-Varianten
+- [x] Solid
+- [x] Einführungs DI 
+- [x] Dependency Injection / Seperation of Concerne  
+- [x] IServiceCollection / ServiceProvider
+- [x] Singleton / Scoped / Transient 
+- [x] Multiple-Implementations + (selbe Interface) with IOC.
+- [x] ASP.NET Core MVC - Injection-Varianten.
   
 - [ ] MVC-Default Project
 - [ ] Program.cs -Klasse mit .NET 6 vergleichen (Codezeilen optimierung + Breaking Change)
