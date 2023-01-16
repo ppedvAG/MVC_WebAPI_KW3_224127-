@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcNDrsFh1tCgh6OlF1qWeIkUvg1AIIJbU0kfL3rtBOueV9Qd9j1NfSTp+naG+yl2PsZiD9bASuavEMOnOA8+FA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\IOCContainerIntroSample\\IOCContainerIntroSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,15 +3,14 @@
 Montag
 - [ ] Solid
 - [ ] Einführungs DI 
-- [ ] Dependency Injection / Seperation of Concerne (3 Stunden) 
-
-- [ ] IServiceCollection / ServiceProvide
+- [ ] Dependency Injection / Seperation of Concerne  
+- [ ] IServiceCollection / ServiceProvider
 - [ ] Singleton / Scoped / Transient 
 - [ ] Multiple-Implementations + (selbe Interface) with IOC.
 - [ ] ASP.NET Core MVC - Injection-Varianten
   
 - [ ] MVC-Default Project
-- [ ] Startup-Klasse mit .NET 6 vergleichen (Codezeilen optimierung + Breaking Change)
+- [ ] Program.cs -Klasse mit .NET 6 vergleichen (Codezeilen optimierung + Breaking Change)
 - [ ] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
 - [ ] Logging 
 
@@ -50,19 +49,22 @@ Formual-Beispiel mit Bild-Dataien
 
 
 
-Mittwoch 
+Mittwoch:
 State-Management
 - [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
 - [ ] ViewData
 - [ ] ViewBag
 - [ ] TempData
 
-- [ ] Relationale Daten in ASP.NET Core MVC
+- [ ] Relationale Daten in ASP.NET Core MVC -> Do/Fr mit WebAPI
 
 Razor-Erweiterungen
 - [ ] PartialView
+- [ ] ViewComponents
+  
 - [ ] HTML-Helper
 - [ ] TagHelpers
+
 
 - Routing
 - [ ] Konventionelles Routing
@@ -70,6 +72,7 @@ Razor-Erweiterungen
 
 Middleware
 - [ ] Middleware -> Was ist ein Pipeline (Use, Run, Map)
+- [ ] (fertige Lösung) -> Upload von Bilddateien + Middleware zum formatieren der Bildergrößen
 
 Benutzerverwaltung -Authentifizierung 
 - [ ] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
