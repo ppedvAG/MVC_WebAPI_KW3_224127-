@@ -1,3 +1,5 @@
+using IOCSamplesWithMVC.Services;
+
 namespace IOCSamplesWithMVC
 {
     public class Program
@@ -6,11 +8,26 @@ namespace IOCSamplesWithMVC
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddSingleton<ITimeService, TimeService>();
+
+
             // Add services to the container
             // //builder.Services -> IServiceCollection 
             builder.Services.AddControllersWithViews();
 
-            var app = builder.Build();
+            var app = builder.Build(); //Initialsierung des IOC Containers ist hiermit beendet
+
+            ITimeService service1 = app.Services.GetService<ITimeService>();
+            ITimeService service2 = app.Services.GetRequiredService<ITimeService>();
+
+
+            //ab .NET 2.1 
+            using (IServiceScope scope = app.Services.CreateScope())
+            {
+                ITimeService service3 = scope.ServiceProvider.GetService<ITimeService>();
+                ITimeService service4 = scope.ServiceProvider.GetRequiredService<ITimeService>();
+            }
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

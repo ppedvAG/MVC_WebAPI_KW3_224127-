@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\bin\Debug\net7.0\LizkovischesPrincipe.exe
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\bin\Debug\net7.0\LizkovischesPrincipe.deps.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\bin\Debug\net7.0\LizkovischesPrincipe.runtimeconfig.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\bin\Debug\net7.0\LizkovischesPrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\bin\Debug\net7.0\LizkovischesPrincipe.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\refint\LizkovischesPrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\LizkovischesPrincipe.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\LizkovischesPrincipe\obj\Debug\net7.0\ref\LizkovischesPrincipe.dll

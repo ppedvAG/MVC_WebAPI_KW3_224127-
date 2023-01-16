@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\bin\Debug\net7.0\OpenClosePrincipe.exe
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\bin\Debug\net7.0\OpenClosePrincipe.deps.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\bin\Debug\net7.0\OpenClosePrincipe.runtimeconfig.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\bin\Debug\net7.0\OpenClosePrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\bin\Debug\net7.0\OpenClosePrincipe.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\refint\OpenClosePrincipe.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\OpenClosePrincipe.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\OpenClosePrincipe\obj\Debug\net7.0\ref\OpenClosePrincipe.dll

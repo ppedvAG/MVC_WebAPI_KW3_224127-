@@ -1,0 +1,11 @@
+﻿
+
+1.) Dependecy Inversion -> Interface und Klassen verwenden 
+
+2.) IOC Container -> Beinhalten die Klassen/Interfaces mit dem Vorteil, dass beim Zugriff mit Loose Kopplung gearbeitet wird (Segreation of Concerne)
+	- In ASPNET Core müssen wir uns nicht kümmern oder Gedanken machen, wie z.B. ein Logger in eine Controller-Klasse zugänglich gemacht wird. 
+
+
+3.) Dependency Injection -> Wie und Wann greife ich auf den IOC Container zu. 
+
+

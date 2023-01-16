@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\bin\Debug\net7.0\InterfaceSegerationPrinzip.exe
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\bin\Debug\net7.0\InterfaceSegerationPrinzip.deps.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\bin\Debug\net7.0\InterfaceSegerationPrinzip.runtimeconfig.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\bin\Debug\net7.0\InterfaceSegerationPrinzip.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\bin\Debug\net7.0\InterfaceSegerationPrinzip.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\refint\InterfaceSegerationPrinzip.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\InterfaceSegerationPrinzip.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\InterfaceSegerationPrinzip\obj\Debug\net7.0\ref\InterfaceSegerationPrinzip.dll
