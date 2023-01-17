@@ -24,25 +24,25 @@ Montag
 
 Dienstag
 Die Controller-Klasse (MVC)
-- [ ] Überblick über HTTPContext und Controller-Basisklasse
-- [ ] Was ist GET und POST -Methoden
-- [ ] QueryString bei Get-Methoden
+- [ ] Überblick über HTTPContext und Controller-Basisklasse -> Zeige ich beim Übergang zur WebAPI (weil eine Verwandschaft vorliegt)
+- [x] Was ist GET und POST -Methoden
+- [x ] QueryString bei Get-Methoden
 
 Formular:
 - [ ] Ein Formular mit mehren Buttons (Post-Methoden)
 
 EF-Core: 
 - [ ] EF Core 
-  - [ ] Code First 
+  - [x] Code First 
   - [ ] InMemoryDatabase / Sql-Provider
-  - [ ] Testdaten verwenden
+  - [x] Testdaten verwenden
 
 Formular 2:
-- [ ] Data Annotations 
+- [x] Data Annotations 
 - [ ] Validierung (clientseitig und serverseitig)
 - [ ] Gehen Geldbeträge mit Komma (Clientseitiger Bug)?
-- [ ] Customize Validator 
-- [ ] ModelState 
+- [x] Customize Validator 
+- [x] ModelState 
 
 Formual-Beispiel mit Bild-Dataien
 - [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
