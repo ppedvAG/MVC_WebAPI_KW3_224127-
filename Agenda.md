@@ -26,21 +26,21 @@ Dienstag
 Die Controller-Klasse (MVC)
 - [ ] Überblick über HTTPContext und Controller-Basisklasse -> Zeige ich beim Übergang zur WebAPI (weil eine Verwandschaft vorliegt)
 - [x] Was ist GET und POST -Methoden
-- [x ] QueryString bei Get-Methoden
+- [x] QueryString bei Get-Methoden
 
 Formular:
-- [ ] Ein Formular mit mehren Buttons (Post-Methoden)
+- [x] Ein Formular mit mehren Buttons (Post-Methoden)
 
 EF-Core: 
 - [ ] EF Core 
   - [x] Code First 
-  - [ ] InMemoryDatabase / Sql-Provider
+  - [x] InMemoryDatabase / Sql-Provider
   - [x] Testdaten verwenden
 
 Formular 2:
 - [x] Data Annotations 
-- [ ] Validierung (clientseitig und serverseitig)
-- [ ] Gehen Geldbeträge mit Komma (Clientseitiger Bug)?
+- [x] Validierung (clientseitig und serverseitig)
+- [x] Gehen Geldbeträge mit Komma (Clientseitiger Bug)?
 - [x] Customize Validator 
 - [x] ModelState 
 

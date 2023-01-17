@@ -54,9 +54,10 @@ namespace MVC_Formulare_EFCore_DataAnnotations.Controllers
         [HttpPost]
         public async Task<IActionResult> Create (Movie movie)
         {
+            
+
 
             //Wir können in Kompination zu mehreren Felder eine Validierung aufbauen
-            
             if (movie.Title == "The Crow" && movie.ReleaseDate.Year == 1981)
             {
                 //ModelState.IsValid wird auf false gesetzt 
@@ -64,12 +65,23 @@ namespace MVC_Formulare_EFCore_DataAnnotations.Controllers
                 ModelState.AddModelError("ReleaseDate", $"Der Film {movie.Title} aus dem Jahr {movie.ReleaseDate.Year} steht auf dem Index");
             }
        
-
+            //Beim Debug -> ModelState.Values -> Sieht man, welche Property 'invalid' ist. 
             if (!ModelState.IsValid)
             {
                 return View(movie); //Aktuelle Movie-Eingabe wird an das Create-Formular zurück übertragen
             }
 
+            _context.Add(movie);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index", new { id = 123 });
+
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> CreateWithoutValid(Movie movie)
+        {
             _context.Add(movie);
             await _context.SaveChangesAsync();
 

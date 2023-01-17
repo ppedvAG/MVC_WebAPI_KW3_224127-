@@ -42,6 +42,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC_Einstieg", "MVC_Einstie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Formulare_EFCore_DataAnnotations", "MVC_Formulare_EFCore_DataAnnotations\MVC_Formulare_EFCore_DataAnnotations.csproj", "{75E03775-69F8-49C9-BBEA-FF5CA1F51F9D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul006_EF_DataAnnotation_DBProvider", "Modul006_EF_DataAnnotation_DBProvider", "{7A02D4C5-9977-423F-85F9-C709F247666E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -112,6 +114,7 @@ Global
 		{59EEA43D-81A5-42A5-AA5C-BA594F19A899} = {AD8A068A-CB59-480D-90ED-C4507EBFFB72}
 		{67EB7F1C-C4A4-4AD2-B170-DC7F9ED54FAE} = {0833B05B-C156-418F-96D8-1CF7ED315AE8}
 		{12BF83D0-9A32-4094-B5B7-B0E8343BDDA0} = {AF7D1202-99F3-4ED7-B126-840F1F9A2FEC}
+		{75E03775-69F8-49C9-BBEA-FF5CA1F51F9D} = {7A02D4C5-9977-423F-85F9-C709F247666E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {335A77EA-074B-4B0E-B6B3-A6CEA7D98A9E}

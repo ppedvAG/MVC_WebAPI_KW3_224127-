@@ -23,14 +23,14 @@ namespace MVC_Formulare_EFCore_DataAnnotations.Models
         public decimal Price { get; set; }
 
         [Required]
-        [ClassicMovie(1960)]
+        [ClassicMovie(1960, ErrorMessage = "Kann hier eine Fehlermeldung platzieren")]
         public DateTime ReleaseDate { get; set; }
 
         public GenreTyp Genre { get; set; }
 
 
-        [Required]
-        [UniversalSerialnumber()]
+        [Required (ErrorMessage = "Bist du eingeschlafen")]
+        [UniversalSerialnumber(ErrorMessage = "Bitte gebe eine richtige Serialnummer ein")]
         public string SerialNumber { get; set; }
     }
 

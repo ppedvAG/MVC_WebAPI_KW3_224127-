@@ -16,7 +16,11 @@ namespace MVC_Formulare_EFCore_DataAnnotations
             builder.Services.AddDbContext<MovieDbContext>(options =>
             {
                 //Datenbank im Speicher
-                options.UseInMemoryDatabase("MovieDb");
+                //options.UseInMemoryDatabase("MovieDb");
+
+                //MovieDbConnectionString
+
+                options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbConnectionString"));
             });
 
             var app = builder.Build();

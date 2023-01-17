@@ -10,7 +10,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
+        <form> @* asp-action = Post-Mehode, wohin das Formular nach ausfüllen gesendet wird *@
             <div asp-validation-summary="All" class="text-danger"></div>
           
             <div class="form-group">
@@ -48,7 +48,52 @@
             </div>
 
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" asp-action="Create" formmethod="post" value="Create" class="btn btn-primary" />
+                <input type="submit" asp-action="CreateWithoutValid" formmethod="post" value="Create without Validation" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <form>
+            @* asp-action = Post-Mehode, wohin das Formular nach ausfüllen gesendet wird *@
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseDate" class="control-label"></label>
+                <input asp-for="ReleaseDate" class="form-control" />
+                <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Genre" class="control-label"></label>
+                @*<input asp-for="Genre" class="form-control" />*@
+                <select asp-for="Genre" class="form-control" asp-items="Html.GetEnumSelectList<GenreTyp>()"></select>
+                <span asp-validation-for="Genre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SerialNumber" class="control-label"></label>
+                <input asp-for="SerialNumber" class="form-control" />
+                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" asp-action="Create" formmethod="post" value="Create" class="btn btn-primary" />
+                <input type="submit" asp-action="CreateWithoutValid" formmethod="post" value="Create without Validation" class="btn btn-primary" />
             </div>
         </form>
     </div>
@@ -58,6 +103,6 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
-@*@section Scripts {
+@section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}*@
+}
