@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@foreach(string currentPicturePath in Model)
+{
+    <div class="col-12 col-md-4">
+        <img class="img-fluid" src="~/images/@System.IO.Path.GetFileName(currentPicturePath)" />
+    </div>
+}

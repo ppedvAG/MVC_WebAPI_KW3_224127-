@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "UploadPicture";
+}
+
+<h1>UploadPicture</h1>
+
+<!-- Formular für Bild-Upload wird hier implementiert -->
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form enctype="multipart/form-data" asp-action="UploadPicture">
+
+    <input type="file" name="file" dirname="C:\" />
+    <input type="submit" value="Upload" />
+</form>

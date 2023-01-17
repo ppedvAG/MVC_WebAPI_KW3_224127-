@@ -32,7 +32,7 @@ Formular:
 - [x] Ein Formular mit mehren Buttons (Post-Methoden)
 
 EF-Core: 
-- [ ] EF Core 
+- [x] EF Core 
   - [x] Code First 
   - [x] InMemoryDatabase / Sql-Provider
   - [x] Testdaten verwenden
@@ -49,8 +49,6 @@ Formual-Beispiel mit Bild-Dataien
 
 
 
-
-
 Mittwoch:
 State-Management
 - [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
@@ -58,7 +56,6 @@ State-Management
 - [ ] ViewBag
 - [ ] TempData
 
-- [ ] Relationale Daten in ASP.NET Core MVC -> Do/Fr mit WebAPI
 
 Razor-Erweiterungen
 - [ ] PartialView
@@ -83,5 +80,7 @@ Benutzerverwaltung -Authentifizierung
 
 
 
+Do / Fr
 
+- [ ] Relationale Daten in ASP.NET Core MVC -> Do/Fr mit WebAPI
 
