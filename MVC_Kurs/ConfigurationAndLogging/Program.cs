@@ -1,4 +1,5 @@
 using ConfigurationAndLogging.Configurations;
+using Serilog;
 using System.Drawing.Printing;
 
 namespace ConfigurationAndLogging
@@ -9,6 +10,7 @@ namespace ConfigurationAndLogging
         {
             var builder = WebApplication.CreateBuilder(args); //Wichtig -> Appsettings.json ist hier schon verfügbar :-) 
 
+            #region Konfiguration Samples
             //SAMPLE -> ConfigurationController->Sample2
             builder.Services.Configure<PositionOptions>(
                 builder.Configuration.GetSection(PositionOptions.Position));
@@ -24,6 +26,27 @@ namespace ConfigurationAndLogging
             builder.Services.Configure<GameSettings>(
                 builder.Configuration.GetSection("GameSettings"));
 
+
+
+            #endregion
+
+
+            #region Logging-Sample
+
+            IConfigurationRoot configuration = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json")
+                .AddUserSecrets<Program>(optional: true)
+                .AddEnvironmentVariables()
+                .Build();
+
+            Log.Logger = new LoggerConfiguration()
+                .ReadFrom.Configuration(configuration)
+                .CreateLogger();
+
+
+            builder.Host.UseSerilog();
+
+            #endregion
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
@@ -50,7 +73,20 @@ namespace ConfigurationAndLogging
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
-            app.Run();
+
+            try
+            {
+                app.Run();
+            }
+            catch( Exception ex)
+            {
+                Log.Error(ex.ToString());
+            }
+            finally
+            {
+                Log.CloseAndFlush();
+            }
+            
         }
     }
 }

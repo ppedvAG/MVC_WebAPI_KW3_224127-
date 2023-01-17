@@ -1,0 +1,16 @@
+﻿@using ConfigurationAndLogging.Configurations
+@model GameSettings;
+
+@{
+    ViewData["Title"] = "Sample3";
+}
+
+<h1>Sample3</h1>
+<p>@Model.Title</p>
+<p>@Model.SubTitle</p>
+
+@foreach(string currentVersion in Model.Updates)
+{
+    <p>@currentVersion</p>
+}
+

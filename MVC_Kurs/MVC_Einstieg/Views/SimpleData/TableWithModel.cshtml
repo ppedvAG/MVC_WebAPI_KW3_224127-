@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Person>
+@{
+    ViewData["Title"] = "TableWithModel";
+}
+
+<h1>GenerateTableWithModel</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Name)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Person currentPerson in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem=>currentPerson.Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem=>currentPerson.Age)
+                </td>
+                <td>
+                    <a asp-action="Details">Details (anskizziert)</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

@@ -11,14 +11,14 @@ Montag
   
 - [x] MVC-Default Project
 - [x] Program.cs -Klasse mit .NET 5 + 2.1 vergleichen (Codezeilen optimierung + Breaking Change)
-- [ ] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
-- [ ] Logging 
+- [x] Konfigurationen einlesen -> Dependency Injcetion + Konfigurationen
+- [x] Logging 
 
 
-- [ ] Präsentationsschicht (1 Stunde) 
-- [ ] Razor-Syntax / RazorEngine 
+- [x] Präsentationsschicht (1 Stunde) 
+- [o] Razor-Syntax / RazorEngine 
 - [ ] Bootstrap
-- [ ] MVC mit ViewModels
+- [x] MVC mit ViewModels
 
 
 
@@ -41,6 +41,8 @@ Formular 2:
 - [ ] Data Annotations 
 - [ ] Validierung (clientseitig und serverseitig)
 - [ ] Gehen Geldbeträge mit Komma (Clientseitiger Bug)?
+- [ ] Customize Validator 
+- [ ] ModelState 
 
 Formual-Beispiel mit Bild-Dataien
 - [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)

@@ -1,0 +1,8 @@
+2023-01-16 15:52:47.603 +01:00 [INF] Call Index
+2023-01-16 15:53:15.026 +01:00 [INF] Call Privacy
+2023-01-16 15:53:15.644 +01:00 [INF] Call Index
+2023-01-16 15:53:16.161 +01:00 [INF] Call Privacy
+2023-01-16 15:53:16.567 +01:00 [INF] Call Index
+2023-01-16 15:53:16.987 +01:00 [INF] Call Privacy
+2023-01-16 15:53:22.605 +01:00 [INF] ConfigurationSampleController->Index
+2023-01-16 15:53:37.738 +01:00 [INF] ConfigurationSampleController->Sample2

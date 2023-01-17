@@ -245,3 +245,13 @@ C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\De
 C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\obj\Debug\net7.0\ConfigurationAndLogging.csproj.CopyComplete
 C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\GameSettings.Development.json
 C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\GameSettings.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\ConfigurationAndLogging\bin\Debug\net7.0\Serilog.Sinks.File.dll

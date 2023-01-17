@@ -2,6 +2,8 @@
 {
     public class GameSettings
     {
-        //Struktur der Klasse ist wichtig 
+        public string Title { get; set; }
+        public string SubTitle { get; set; }
+        public string[] Updates { get; set; } = default!;
     }
 }

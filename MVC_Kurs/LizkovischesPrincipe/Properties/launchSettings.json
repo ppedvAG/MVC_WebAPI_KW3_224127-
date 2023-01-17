@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LizkovischesPrincipe": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:65506;http://localhost:65509"
+    }
+  }
+}

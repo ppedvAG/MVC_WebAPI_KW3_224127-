@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_Einstieg
+build_property.RootNamespace = MVC_Einstieg
+build_property.ProjectDir = C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\MVC_Einstieg\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\MVC_Kurs\MVC_Einstieg
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Intro/Sample2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cm9cU2FtcGxlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Intro/Sample3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cm9cU2FtcGxlMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Intro/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cm9cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/SimpleData/GeneratedTableWithModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlRGF0YVxHZW5lcmF0ZWRUYWJsZVdpdGhNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/SimpleData/GenerateTableWithViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlRGF0YVxHZW5lcmF0ZVRhYmxlV2l0aFZpZXdNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/SimpleData/Sample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlRGF0YVxTYW1wbGUxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/SimpleData/TableWithModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2ltcGxlRGF0YVxUYWJsZVdpdGhNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8ftt6n8x9p
+
+[C:/Aktueller Kurs/MVC_WebAPI_KW3_224127-/MVC_Kurs/MVC_Einstieg/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-8s79ixos1a

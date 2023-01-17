@@ -1,0 +1,2 @@
+2023-01-17 09:13:49.722 +01:00 [INF] Call Index
+2023-01-17 09:14:01.596 +01:00 [INF] ConfigurationSampleController->Sample3

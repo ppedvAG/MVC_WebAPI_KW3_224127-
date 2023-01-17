@@ -1,5 +1,6 @@
 ﻿using ConfigurationAndLogging.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace ConfigurationAndLogging.Controllers
@@ -15,11 +16,13 @@ namespace ConfigurationAndLogging.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Call Index");
             return View();
         }
 
         public IActionResult Privacy()
         {
+            _logger.LogInformation("Call Privacy");
             return View();
         }
 
