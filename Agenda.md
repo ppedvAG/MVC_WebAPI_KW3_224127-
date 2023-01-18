@@ -59,15 +59,15 @@ State-Management
 
 Razor-Erweiterungen
 - [x] PartialView
-- [ ] ViewComponents
+- [x] ViewComponents
   
-- [ ] HTML-Helper
-- [ ] TagHelpers
+- [x] HTML-Helper
+- [x] TagHelpers
 
 
 - Routing
-- [ ] Konventionelles Routing
-- [ ] Attribute Routing (HttpVerbs)
+- [x] Konventionelles Routing
+- [x] Attribute Routing (HttpVerbs)
 
 Middleware
 - [ ] Middleware -> Was ist ein Pipeline (Use, Run, Map)

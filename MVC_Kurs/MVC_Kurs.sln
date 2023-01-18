@@ -61,11 +61,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PictureGalleryApp", "Pictur
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul008_Files", "Modul008_Files", "{762B9094-6CA8-49CD-BCA2-B339233A9844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementExamples", "StateManagementExamples\StateManagementExamples.csproj", "{FB510663-99D3-4E8D-9C17-3AA2EC281703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateManagementExamples", "StateManagementExamples\StateManagementExamples.csproj", "{FB510663-99D3-4E8D-9C17-3AA2EC281703}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul009_StateManagement", "Modul009_StateManagement", "{DC039E27-B19A-4A03-B2AD-E8947058C6A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAdvanced", "RazorAdvanced\RazorAdvanced.csproj", "{3237F08D-4F3D-4088-B81B-B729235DB1F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorAdvanced", "RazorAdvanced\RazorAdvanced.csproj", "{3237F08D-4F3D-4088-B81B-B729235DB1F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul010_RazorAdvanced", "Modul010_RazorAdvanced", "{9A3E2465-F112-4694-AB3D-DBA0DA2C533E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingSamples", "RoutingSamples\RoutingSamples.csproj", "{B95A5796-90BD-4666-A576-73139AA65028}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul011_Routing", "Modul011_Routing", "{95DDA192-8B6A-4ECA-B534-C6D7D97191BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareSamples", "MiddlewareSamples\MiddlewareSamples.csproj", "{D0D17390-7536-4618-91EE-B82C62368130}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +149,14 @@ Global
 		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95A5796-90BD-4666-A576-73139AA65028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A5796-90BD-4666-A576-73139AA65028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A5796-90BD-4666-A576-73139AA65028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A5796-90BD-4666-A576-73139AA65028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D17390-7536-4618-91EE-B82C62368130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D17390-7536-4618-91EE-B82C62368130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D17390-7536-4618-91EE-B82C62368130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D17390-7536-4618-91EE-B82C62368130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -164,6 +180,8 @@ Global
 		{73FDC962-EE92-42D1-B047-67DABC2FAA65} = {35BC5F33-BDDF-4ADF-BAC0-317610EC5192}
 		{594184A2-DBFE-4085-A733-44C5687901C7} = {762B9094-6CA8-49CD-BCA2-B339233A9844}
 		{FB510663-99D3-4E8D-9C17-3AA2EC281703} = {DC039E27-B19A-4A03-B2AD-E8947058C6A4}
+		{3237F08D-4F3D-4088-B81B-B729235DB1F2} = {9A3E2465-F112-4694-AB3D-DBA0DA2C533E}
+		{B95A5796-90BD-4666-A576-73139AA65028} = {95DDA192-8B6A-4ECA-B534-C6D7D97191BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {335A77EA-074B-4B0E-B6B3-A6CEA7D98A9E}

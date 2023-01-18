@@ -1,3 +1,5 @@
+using PictureGalleryApp.Middleware;
+
 namespace PictureGalleryApp
 {
     public class Program
@@ -27,6 +29,12 @@ namespace PictureGalleryApp
             app.UseRouting();
 
             app.UseAuthorization();
+
+
+            app.MapWhen(context => context.Request.Path.ToString().Contains("imagegen"), subapp =>
+            {
+                subapp.UseThumbnailGen();
+            });
 
             app.MapControllerRoute(
                 name: "default",

@@ -1,0 +1,15 @@
+﻿@using RazorAdvanced.TagHelpers;
+
+@{
+    ViewData["Title"] = "TagHelperSample2";
+
+    WebsiteContext websiteContext = new();
+    websiteContext.Version = new Version("1.2");
+    websiteContext.Approved = true;
+    websiteContext.CopyrightYear = 2022;
+    websiteContext.TagsToShow = 2;
+}
+
+<h1>TagHelperSample2</h1>
+<p>https://learn.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/authoring?source=recommendations&view=aspnetcore-7.0</p>
+<website-information info="websiteContext" />

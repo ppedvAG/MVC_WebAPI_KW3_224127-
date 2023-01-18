@@ -14,6 +14,15 @@ namespace PictureGalleryApp.Controllers
             return View(bilder);
         }
 
+        public IActionResult Index2()
+        {
+            string imgDirectory = AppDomain.CurrentDomain.GetData("BildVerzeichnis") + @"\images\";
+
+            string[] bilder = Directory.GetFiles(imgDirectory);
+
+            return View(bilder);
+        }
+
 
         [HttpGet]
         public async Task<IActionResult> UploadPicture()
