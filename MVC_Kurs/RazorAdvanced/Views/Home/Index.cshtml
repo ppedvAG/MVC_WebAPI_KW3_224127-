@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h2>World Weather</h2>
+    <br />
+    <center>
+        <div class="container">
+            <div class="row">
+                <div class="card-group" style="margin:auto;">
+                    <vc:weather-widget city-name="Berlin"></vc:weather-widget>
+
+                    <vc:weather-widget city-name="New York"></vc:weather-widget>
+
+                    <vc:weather-widget city-name="Paris"></vc:weather-widget>
+                </div>
+            </div>
+        </div>
+    </center>
+</div>
+
+
+
+
+<vc:movies-with-lowest-price top="3"></vc:movies-with-lowest-price>

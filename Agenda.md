@@ -51,14 +51,14 @@ Formual-Beispiel mit Bild-Dataien
 
 Mittwoch:
 State-Management
-- [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
-- [ ] ViewData
-- [ ] ViewBag
-- [ ] TempData
+- [x] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
+- [x] ViewData
+- [x] ViewBag
+- [x] TempData
 
 
 Razor-Erweiterungen
-- [ ] PartialView
+- [x] PartialView
 - [ ] ViewComponents
   
 - [ ] HTML-Helper

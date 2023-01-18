@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementExamples", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul009_StateManagement", "Modul009_StateManagement", "{DC039E27-B19A-4A03-B2AD-E8947058C6A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorAdvanced", "RazorAdvanced\RazorAdvanced.csproj", "{3237F08D-4F3D-4088-B81B-B729235DB1F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{FB510663-99D3-4E8D-9C17-3AA2EC281703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB510663-99D3-4E8D-9C17-3AA2EC281703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB510663-99D3-4E8D-9C17-3AA2EC281703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3237F08D-4F3D-4088-B81B-B729235DB1F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

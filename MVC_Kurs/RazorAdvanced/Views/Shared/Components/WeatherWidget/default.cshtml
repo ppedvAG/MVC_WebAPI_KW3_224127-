@@ -1,0 +1,16 @@
+﻿@model RazorAdvanced.Models.WeatherInfo
+
+<div class="card">
+    <div class="card-body" style="width:200px;">
+        <h5 class="card-title">@Model.City</h5>
+        <p class="card-text">
+            <span class="text-muted">@Model.Date</span>
+        </p>
+        <img src="@("/images/" + Model.Icon)" class="card-img-top" style="margin:auto; width: 65px;">
+        <h6 class="text-muted">@Model.Condition</h6>
+        <br />
+        <div>Precipitation: <span>@Model.Precipitation</span></div>
+        <div>Humidity: <span>@Model.Humidity</span></div>
+        <div>Wind: <span>@Model.Wind</span></div>
+    </div>
+</div>
