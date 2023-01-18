@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "ViewDataSample";
+
+    string lottozahlen = ViewData["Lottozahlen"].ToString();
+
+    Person mitarbeiterDesMonats = (Person)ViewData["MitarbeiterDesMonats"];
+}
+
+<h1>ViewDataSample</h1>
+
+@ViewData["Lottozahlen"].ToString()
+
+
+<p>@mitarbeiterDesMonats.Vorname</p>
+<p>@mitarbeiterDesMonats.Nachname</p>

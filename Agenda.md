@@ -45,7 +45,7 @@ Formular 2:
 - [x] ModelState 
 
 Formual-Beispiel mit Bild-Dataien
-- [ ] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
+- [x] Upload von Bilddateien + einfache Darstellung in einer Gallery (Formularverbeitung Bezug Dienstag)
 
 
 

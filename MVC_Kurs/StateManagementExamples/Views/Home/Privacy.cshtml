@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+
+    string sportart = TempData["Sportart"].ToString();
+    string email = TempData["Email"].ToString();
+
+    TempData.Keep();
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+
+@if (string.IsNullOrEmpty(sportart))
+{
+    <p>Eintrag Sportart ist leer</p>
+}
+else
+{
+    <p>@sportart</p>
+}
+
+
+@if (string.IsNullOrEmpty(email))
+{
+    <p>Eintrag Email ist leer</p>
+}
+else
+{
+    <p>@email</p>
+}

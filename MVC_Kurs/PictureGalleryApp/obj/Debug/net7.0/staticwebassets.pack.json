@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\PictureGalleryApp\\wwwroot\\images\\269820604_132550655891707_8143335566193541637_n.jpg",
+      "PackagePath": "staticwebassets\\images\\269820604_132550655891707_8143335566193541637_n.jpg"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\PictureGalleryApp\\wwwroot\\images\\271049704_132550665891706_9048745690393834697_n.jpg",
+      "PackagePath": "staticwebassets\\images\\271049704_132550665891706_9048745690393834697_n.jpg"
+    },
+    {
+      "Id": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\PictureGalleryApp\\wwwroot\\images\\mangrove-photography-awards-01.jpg",
+      "PackagePath": "staticwebassets\\images\\mangrove-photography-awards-01.jpg"
+    },
+    {
       "Id": "C:\\Aktueller Kurs\\MVC_WebAPI_KW3_224127-\\MVC_Kurs\\PictureGalleryApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

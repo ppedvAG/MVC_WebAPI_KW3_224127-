@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ViewBagSample";
+
+    Person currentPerson = (Person)ViewData["PersonDerWoche"];
+    Person current1Person = (Person)ViewBag.PersonDerWoche;
+
+}
+
+<h1>ViewBagSample</h1>
+
+@currentPerson.Vorname
+
+@currentPerson.Nachname
+

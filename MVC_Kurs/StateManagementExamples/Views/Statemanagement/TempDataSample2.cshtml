@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSample2";
+    Person istPersonAuslesbar = (Person)ViewBag.PersonDerWoche;
+    string sportart = TempData["Sportart"].ToString();
+    string email = TempData["Email"].ToString();
+
+    TempData.Keep();
+}
+
+<h1>TempDataSample2</h1>
+
+@if (istPersonAuslesbar == null)
+{
+    <p>Person der Woche kann nicht ausgelesen werden, weil diese im ViewData-Context nicht mehr existiert</p>
+}
+else
+{
+    <p>@istPersonAuslesbar.Vorname</p>
+    <p>@istPersonAuslesbar.Nachname</p>
+}
+
+@if (string.IsNullOrEmpty(sportart))
+{
+    <p>Eintrag Sportart ist leer</p>
+}
+else
+{
+    <p>@sportart</p>
+}
+
+
+@if (string.IsNullOrEmpty(email))
+{
+    <p>Eintrag Email ist leer</p>
+}
+else
+{
+    <p>@email</p>
+}

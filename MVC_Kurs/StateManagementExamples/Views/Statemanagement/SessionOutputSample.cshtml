@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "SessionOutputSample";
+
+    string json = Context.Session.GetString("MitarbeiterDesJahres");
+
+    Person person = System.Text.Json.JsonSerializer.Deserialize<Person>(json);
+}
+
+<h1>SessionOutputSample</h1>
+
+@Context.Session.GetInt32("Lottozahlen")
+<br />
+@person.Vorname
+<br />
+@person.Nachname

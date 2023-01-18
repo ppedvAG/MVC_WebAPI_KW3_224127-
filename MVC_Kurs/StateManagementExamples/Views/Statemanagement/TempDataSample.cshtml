@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSample";
+    Person istPersonAuslesbar = (Person)ViewBag.PersonDerWoche;
+
+
+    TempData.Keep(); //Alle Einträge in TempData dürfen nochmals verwendet werden, und werden nicht gelöscht
+    TempData.Keep("Email"); //Zweite Methode nur für ein Eintrag. 
+
+    string sportart = TempData["Sportart"].ToString();
+    string email = TempData["Email"].ToString();
+}
+
+<h1>Startseite für das TempData-Sample</h1>
+
+
+@if (istPersonAuslesbar == null)
+{
+        <p>Person der Woche kann nicht ausgelesen werden, weil diese im ViewData-Context nicht mehr existiert</p>
+}
+else
+{
+        <p>@istPersonAuslesbar.Vorname</p>
+        <p>@istPersonAuslesbar.Nachname</p>
+}
+
+@if (string.IsNullOrEmpty(sportart))
+{
+    <p>Eintrag Sportart ist leer</p>
+}
+else
+{
+    <p>@sportart</p>
+}
+
+
+@if (string.IsNullOrEmpty(email))
+{
+    <p>Eintrag Email ist leer</p>
+}
+else
+{
+    <p>@email</p>
+}

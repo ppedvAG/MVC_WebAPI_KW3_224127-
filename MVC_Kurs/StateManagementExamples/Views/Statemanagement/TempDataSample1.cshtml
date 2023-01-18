@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSample1";
+    //Person istPersonAuslesbar = (Person)ViewBag.PersonDerWoche;
+    //string sportart = TempData["Sportart"].ToString();
+    //string email = TempData["Email"].ToString();
+}
+
+<h1>TempDataSample1</h1>
+
+
+@TempData.Peek("Sportart")
+@TempData.Peek("Email")
+
+
