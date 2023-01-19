@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPI_with_Autofac_and_IGenericHostBuilder.props" />
+</Project>

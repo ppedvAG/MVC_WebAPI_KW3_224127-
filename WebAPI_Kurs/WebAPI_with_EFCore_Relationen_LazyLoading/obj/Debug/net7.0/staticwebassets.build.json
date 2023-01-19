@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0cC88YUG68k7qkyszx8O0qmuHO5J+FSzto3QA0V75aI=",
+  "Source": "WebAPI_with_EFCore_Relationen_LazyLoading",
+  "BasePath": "_content/WebAPI_with_EFCore_Relationen_LazyLoading",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

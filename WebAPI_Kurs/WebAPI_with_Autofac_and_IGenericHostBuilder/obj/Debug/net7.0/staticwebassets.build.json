@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eyRYLpEQQiebkz0JAPd9gCA0RBbjkrEGEAQa/NIjqMo=",
+  "Source": "WebAPI_with_Autofac_and_IGenericHostBuilder",
+  "BasePath": "_content/WebAPI_with_Autofac_and_IGenericHostBuilder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

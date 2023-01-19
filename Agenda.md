@@ -70,8 +70,8 @@ Razor-Erweiterungen
 - [x] Attribute Routing (HttpVerbs)
 
 Middleware
-- [ ] Middleware -> Was ist ein Pipeline (Use, Run, Map)
-- [ ] (fertige Lösung) -> Upload von Bilddateien + Middleware zum formatieren der Bildergrößen
+- [x] Middleware -> Was ist ein Pipeline (Use, Run, Map)
+- [x] (fertige Lösung) -> Upload von Bilddateien + Middleware zum formatieren der Bildergrößen
 
 Benutzerverwaltung -Authentifizierung 
 - [ ] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView

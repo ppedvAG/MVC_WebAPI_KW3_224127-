@@ -1,0 +1,35 @@
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\appsettings.Development.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\appsettings.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.exe
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.deps.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.runtimeconfig.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Autofac.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.AssemblyInfo.cs
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI_with_Autofac and IWebHostBuilder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI_with_Autofac and IWebHostBuilder.props
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_with_Autofac and IWebHostBuilder.props
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI_with_Autofac and IWebHostBuilder.props
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets.build.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\staticwebassets.development.json
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\scopedcss\bundle\WebAPI_with_Autofac and IWebHostBuilder.styles.css
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.csproj.CopyComplete
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\refint\WebAPI_with_Autofac and IWebHostBuilder.dll
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.pdb
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\WebAPI_with_Autofac and IWebHostBuilder.genruntimeconfig.cache
+C:\Aktueller Kurs\MVC_WebAPI_KW3_224127-\WebAPI_Kurs\WebAPI_with_Autofac\obj\Debug\net7.0\ref\WebAPI_with_Autofac and IWebHostBuilder.dll

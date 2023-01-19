@@ -1,0 +1,6 @@
+
+
+
+- Ein weiteres Beispiel mit DTO die auch Relationen verwenden 
+
+- Bearer Token 

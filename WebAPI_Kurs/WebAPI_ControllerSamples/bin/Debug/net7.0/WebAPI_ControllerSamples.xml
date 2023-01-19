@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI_ControllerSamples</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI_ControllerSamples.Controllers.ConventionsController.GetAllMovies">
+            <summary>
+            Lese alle Filme
+            </summary>
+            <returns>Eine List von Filmen</returns>
+        </member>
+        <member name="M:WebAPI_ControllerSamples.Controllers.ConventionsController.GetMovie">
+            <summary>
+            GetMovie
+            </summary>
+            <returns>Eine Liste von Filme</returns>
+        </member>
+        <member name="M:WebAPI_ControllerSamples.Controllers.ConventionsController.GetMovie(System.Int32)">
+            <summary>
+            Movie mit einer bestimmten Id
+            </summary>
+            <param name="id">Id - Wert</param>
+            <returns>Film mit der gefragten Id</returns>
+        </member>
+        <member name="T:WebAPIControllerSamples.Migrations.First">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPIControllerSamples.Migrations.First.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPIControllerSamples.Migrations.First.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPIControllerSamples.Migrations.First.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
