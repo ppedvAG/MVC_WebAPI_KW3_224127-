@@ -34,11 +34,11 @@ Freitag:
 - [x] Paging u. weitere WebAPI Features -> Skip/Take für Paging / Sorting und Filtering
 
 
-- [ ] Minimal API -> wird erst in .NET 7 interessant (30 Minuten)
+- [x] Minimal API -> wird erst in .NET 7 interessant (30 Minuten)
 
 (fertig Lösungen) 
-- [ ] Broadcast Videoübertragung via WebAPI (HttpClient)
-- [ ] (Upload / Download) -> Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
+- [x] Broadcast Videoübertragung via WebAPI (HttpClient)
+- [x] (Upload / Download) -> Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
 - [ ] Customize Formatter (VCARD) - ShowCase -> Nur Einbinden ist interssant -> https://learn.microsoft.com/en-us/aspnet/core/web-api/advanced/custom-formatters?view=aspnetcore-7.0
 
 
