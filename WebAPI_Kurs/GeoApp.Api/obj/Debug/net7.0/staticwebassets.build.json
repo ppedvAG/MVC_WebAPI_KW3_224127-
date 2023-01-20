@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eWQlqAwelT8j3dXl6a3jYZV4KJVeoLITnB5+DaL5QFo=",
+  "Source": "GeoApp.Api",
+  "BasePath": "_content/GeoApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

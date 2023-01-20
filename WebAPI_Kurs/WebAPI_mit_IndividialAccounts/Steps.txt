@@ -1,0 +1,56 @@
+﻿Individial User-Accounts mit WebAPI:
+
+Step1 Packages-Installieren:
+
+Package-Liste:
+- Microsoft.AspNetCore.Authentication.JwtBearer
+- Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore.Design?
+
+
+
+
+
+Bearer-Token:
+Step1:
+- JWTBearerTokenSettings in der AppSetting.json hinterlegen
+
+Step2:
+- Configuration-Klasse für das auslesen der JWTBearerTokenSettings erstellen -> Pojektname\Confiugrations\JwtBearerTokenSettings.cs
+
+Step3:
+- Auslesen der JWTBearerTokenSettings in Program.cs
+
+Step 3.1:
+- Auselesen des Secret Keys als Byte auslesen (in Program.cs)
+
+Step 4.
+- AddAuthentification plus JWTBearer Settings in Program.cs implementieren 
+
+
+
+Models + DBContext für IdenetityDb
+
+Step1: 
+Erstellen der DTOs für:
+- Benutzer erstellen
+- Benutzer-Login
+
+Step2: 
+- ApplicationDbContext erstellen
+
+Step3:
+- ApplicationDbContext in Program.cs einbinden 
+- ConnectionString in AppSettings.json festlegen 
+
+
+Step 4:
+AddIdentity mit Verweis auf unsere ApplicationDbContext
+
+
+
+Erstellen des AuthControllers.cs:
+- 

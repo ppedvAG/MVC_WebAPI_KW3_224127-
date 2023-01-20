@@ -13,7 +13,7 @@ Donnerstag:
 - [x] HTTP-Methoden (Get / Post / Put / Delete)
 - [x] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
 - [x] Konventionen
-- [x] Formatter (CSV,XML)
+- [x] Formatter (CSV,XML,Protobuf)
 
 - [ ] ResponseCaching -> siehe WeatherForecastController.cs
 - [x] EF Core Anbindung 
@@ -23,18 +23,18 @@ Donnerstag:
 
 Freitag:
 
-- [ ] HttpClient mit BearerToken -> SourceCode gewünscht (45 Minuten)
-- [ ] Authentifizierung via Identity UI -> User Accounts (30 Minuten)
+- [x] HttpClient mit BearerToken -> SourceCode gewünscht (45 Minuten)
+- [x] Authentifizierung via Identity UI -> User Accounts (30 Minuten)
 
-- [ ] Minimal API -> wird erst in .NET 7 interessant (30 Minuten)
 
-- [ ] MVC Oberfläche mit HttpClient (30 Minuten) (wäre mit einem anderen guten Beispiel, dass eine MVC Oberfläche verwendet, austauschbar)
-	- [ ] CRUD abgebildet ->MVC/WEbAPI Sample (1 Stunden)
+
+- [x] MVC Oberfläche mit HttpClient (30 Minuten) (wäre mit einem anderen guten Beispiel, dass eine MVC Oberfläche verwendet, austauschbar)
+	- [x] CRUD abgebildet ->MVC/WEbAPI Sample (1 Stunden)
 
 - [x] Paging u. weitere WebAPI Features -> Skip/Take für Paging / Sorting und Filtering
-- [ ] Architekturen -> Hateoas + DataShapping + OData
 
 
+- [ ] Minimal API -> wird erst in .NET 7 interessant (30 Minuten)
 
 (fertig Lösungen) 
 - [ ] Broadcast Videoübertragung via WebAPI (HttpClient)
@@ -43,6 +43,7 @@ Freitag:
 
 
 Wenn die Zeit reicht:
-
+- [ ] Architekturen -> Hateoas + DataShapping + OData
+- [ ] OData Beispiel
 - [ ] WebAPI mit CQRS und MediatR (2-3 Stunden)
-- [ ] OData Beispiel 
+ 
